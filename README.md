@@ -1,4 +1,3 @@
-# Surplus_Hunter_AI
 # 🛰️ Surplus Hunter AI
 
 **Surplus Hunter AI** is a full-stack, AI-powered research and workflow platform designed to discover, manage, and process foreclosure surplus funds and tax sale overages using publicly available government data.
